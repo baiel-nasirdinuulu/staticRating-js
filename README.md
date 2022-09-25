@@ -1,4 +1,4 @@
 # staticRating-js
 
 
-ttps://baiel-nasirdinuulu.github.io/staticRating-js/
+https://baiel-nasirdinuulu.github.io/staticRating-js/
